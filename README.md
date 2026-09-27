@@ -5,6 +5,10 @@
 
 # DDEV Assistant Opencode
 
+## About this fork
+
+This is a fork of https://github.com/e0ipso/ddev-assistant-opencode that installs OpenCode V2 instead of V1.
+
 ## Overview
 
 This add-on integrates Assistant Opencode into your [DDEV](https://ddev.com/) project's web container.

@@ -6,7 +6,7 @@ FROM $BASE_IMAGE
 # available on PATH inside the web container, without needing a post-start
 # hook to copy it into the home directory (which is a Docker named volume
 # and would be masked by bind mounts under ~/.local/).
-RUN curl -fsSL https://opencode.ai/install | bash && \
+RUN curl -fsSL https://opencode.ai/v2/install | bash && \
     cp -L /root/.opencode/bin/opencode /usr/local/bin/opencode && \
     chmod 755 /usr/local/bin/opencode
 
