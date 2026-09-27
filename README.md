@@ -1,7 +1,7 @@
 [![add-on registry](https://img.shields.io/badge/DDEV-Add--on_Registry-blue)](https://addons.ddev.com)
-[![tests](https://github.com/e0ipso/ddev-assistant-opencode/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/e0ipso/ddev-assistant-opencode/actions/workflows/tests.yml?query=branch%3Amain)
-[![last commit](https://img.shields.io/github/last-commit/e0ipso/ddev-assistant-opencode)](https://github.com/e0ipso/ddev-assistant-opencode/commits)
-[![release](https://img.shields.io/github/v/release/e0ipso/ddev-assistant-opencode)](https://github.com/e0ipso/ddev-assistant-opencode/releases/latest)
+[![tests](https://github.com/brookemahoney/ddev-assistant-opencode/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/brookemahoney/ddev-assistant-opencode/actions/workflows/tests.yml?query=branch%3Amain)
+[![last commit](https://img.shields.io/github/last-commit/brookemahoney/ddev-assistant-opencode)](https://github.com/brookemahoney/ddev-assistant-opencode/commits)
+[![release](https://img.shields.io/github/v/release/brookemahoney/ddev-assistant-opencode)](https://github.com/brookemahoney/ddev-assistant-opencode/releases/latest)
 
 # DDEV Assistant Opencode
 
@@ -16,7 +16,7 @@ This add-on integrates Assistant Opencode into your [DDEV](https://ddev.com/) pr
 ## Installation
 
 ```bash
-ddev add-on get e0ipso/ddev-assistant-opencode
+ddev add-on get brookemahoney/ddev-assistant-opencode
 ddev restart
 ```
 
@@ -45,4 +45,4 @@ On first `ddev restart`, the add-on:
 
 ## Credits
 
-**Contributed and maintained by [@e0ipso](https://github.com/e0ipso)**
+**Contributed and maintained by [@brookemahoney](https://github.com/brookemahoney)**
